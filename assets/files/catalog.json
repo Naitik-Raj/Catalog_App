@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Pixel 6a",
+            "desc": "Buy Pixel 6a for the best camera",
+            "price": 275,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61PW24157AL._SL1500_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Iphone 13 Pro Max",
+            "desc": "Buy iphone 13 pro max for the best experience",
+            "price": 449,
+            "color": "#33505a",
+            "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_GEO_09142021_inline.jpg.slideshow-large_2x.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Pixel 6a",
+            "desc": "Buy Pixel 6a for the best camera",
+            "price": 275,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61PW24157AL._SL1500_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Pixel 6a",
+            "desc": "Buy Pixel 6a for the best camera",
+            "price": 275,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61PW24157AL._SL1500_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Pixel 6a",
+            "desc": "Buy Pixel 6a for the best camera",
+            "price": 275,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61PW24157AL._SL1500_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Pixel 6a",
+            "desc": "Buy Pixel 6a for the best camera",
+            "price": 275,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61PW24157AL._SL1500_.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Pixel 6a",
+            "desc": "Buy Pixel 6a for the best camera",
+            "price": 275,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61PW24157AL._SL1500_.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Pixel 6a",
+            "desc": "Buy Pixel 6a for the best camera",
+            "price": 275,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61PW24157AL._SL1500_.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Pixel 6a",
+            "desc": "Buy Pixel 6a for the best camera",
+            "price": 275,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61PW24157AL._SL1500_.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Pixel 6a",
+            "desc": "Buy Pixel 6a for the best camera",
+            "price": 275,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61PW24157AL._SL1500_.jpg"
+        }
+    ]
+}
